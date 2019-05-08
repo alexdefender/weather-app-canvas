@@ -1,0 +1,11 @@
+{
+  "main.js": "/weather-app-canvas/static/js/main.7d16a7d0.chunk.js",
+  "main.js.map": "/weather-app-canvas/static/js/main.7d16a7d0.chunk.js.map",
+  "runtime~main.js": "/weather-app-canvas/static/js/runtime~main.0ae1b1d8.js",
+  "runtime~main.js.map": "/weather-app-canvas/static/js/runtime~main.0ae1b1d8.js.map",
+  "static/js/2.dcb409d0.chunk.js": "/weather-app-canvas/static/js/2.dcb409d0.chunk.js",
+  "static/js/2.dcb409d0.chunk.js.map": "/weather-app-canvas/static/js/2.dcb409d0.chunk.js.map",
+  "index.html": "/weather-app-canvas/index.html",
+  "precache-manifest.c5c91d64265a6e29ecdf691d89b21092.js": "/weather-app-canvas/precache-manifest.c5c91d64265a6e29ecdf691d89b21092.js",
+  "service-worker.js": "/weather-app-canvas/service-worker.js"
+}
