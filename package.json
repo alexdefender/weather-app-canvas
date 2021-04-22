@@ -9,7 +9,7 @@
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.1.8",
-    "three": "0.104.0"
+    "three": "0.125.0"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
